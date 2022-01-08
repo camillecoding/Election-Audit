@@ -9,6 +9,8 @@ This project uses voting data from three distinct counties in Colorado to calcul
 
 Election audits help to support public faith in the integrity of a country's electoral process and in democracy more widely. While projections for election results provide some short-term relief, the information uncovered in audits like these are an essential part of verifying the results.
 
+
+
   ### Election Details and Outcomes ###
   
   There were 369,711 votes cast in this election.
@@ -17,6 +19,8 @@ Election audits help to support public faith in the integrity of a country's ele
   * Diana DeGette - 272,892 votes (73.8%)
   * Charles Casper Stockham - 85,213 votes (23.0%)
   * Raymon Anthony Doane -  11,606 (3.1%)
+  
+<img width="897" alt="Screen Shot 2022-01-07 at 9 02 05 PM" src="https://user-images.githubusercontent.com/95657458/148627392-3ce3cbbf-56c5-4817-8e81-6b8f6c01b2c3.png">
 
   County voter turnout:
   * Jefferson - 10.5% of overall vote (38,855 votes cast)
@@ -25,7 +29,14 @@ Election audits help to support public faith in the integrity of a country's ele
   
   Denver was the county with the largest voter turnout.
   
+  <img width="723" alt="Screen Shot 2022-01-07 at 9 02 48 PM" src="https://user-images.githubusercontent.com/95657458/148627418-e79c25c8-c9bb-49fd-ae81-fad4fb97ece7.png">
+
+  
   Diana DeGette was the winner of this election with 272,892 votes or 73.8% of the overall votes.
+  <img width="503" alt="Screen Shot 2022-01-07 at 9 02 56 PM" src="https://user-images.githubusercontent.com/95657458/148627421-6a457d38-5412-4588-9bc0-24d14e6f109e.png">
+
+  <img width="473" alt="Screen Shot 2022-01-07 at 9 02 27 PM" src="https://user-images.githubusercontent.com/95657458/148627410-99bb5809-5e20-4048-b671-692645ea7a43.png">
+
 
 ## Election-Audit Summary ##
 
