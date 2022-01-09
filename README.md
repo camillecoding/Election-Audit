@@ -5,10 +5,15 @@
 
 This project uses voting data from three distinct counties in Colorado to calculate the results of this election and provides statistical analysis to support these results. I received the vote counts in a large CSV file. The first step was to analyze the data to determine the winner. The second layer of analysis involved determining the voter turnout. Finally, this analysis and the statistics to support it was re-written onto a text file. 
 
+<img width="804" alt="Screen Shot 2022-01-09 at 1 27 16 PM" src="https://user-images.githubusercontent.com/95657458/148695424-057bc3b6-e025-444f-b46d-2fa8b1c0dfca.png">
+
+
 ## Election-Audit Results ##
 
 Election audits help to support public faith in the integrity of a country's electoral process and in democracy more widely. While projections for election results provide some short-term relief, the information uncovered in audits like these are an essential part of verifying the results.
 
+<img width="404" alt="Screen Shot 2022-01-09 at 1 25 25 PM" src="https://user-images.githubusercontent.com/95657458/148695435-b8a081a5-c1d3-4026-9936-4c46ad376860.png">
+<img width="421" alt="Screen Shot 2022-01-09 at 1 25 40 PM" src="https://user-images.githubusercontent.com/95657458/148695439-94006e07-8a41-4f7b-9f81-57e86fdea265.png">
 
 
   ### Election Details and Outcomes ###
@@ -20,7 +25,6 @@ Election audits help to support public faith in the integrity of a country's ele
   * Charles Casper Stockham - 85,213 votes (23.0%)
   * Raymon Anthony Doane -  11,606 (3.1%)
   
-<img width="897" alt="Screen Shot 2022-01-07 at 9 02 05 PM" src="https://user-images.githubusercontent.com/95657458/148627392-3ce3cbbf-56c5-4817-8e81-6b8f6c01b2c3.png">
 
   County voter turnout:
   * Jefferson - 10.5% of overall vote (38,855 votes cast)
@@ -28,14 +32,10 @@ Election audits help to support public faith in the integrity of a country's ele
   * Arapahoe - 6.7% of overall vote (24,801 votes cast)
   
   Denver was the county with the largest voter turnout.
-  
-  <img width="723" alt="Screen Shot 2022-01-07 at 9 02 48 PM" src="https://user-images.githubusercontent.com/95657458/148627418-e79c25c8-c9bb-49fd-ae81-fad4fb97ece7.png">
 
   
   Diana DeGette was the winner of this election with 272,892 votes or 73.8% of the overall votes.
-  <img width="503" alt="Screen Shot 2022-01-07 at 9 02 56 PM" src="https://user-images.githubusercontent.com/95657458/148627421-6a457d38-5412-4588-9bc0-24d14e6f109e.png">
 
-  <img width="473" alt="Screen Shot 2022-01-07 at 9 02 27 PM" src="https://user-images.githubusercontent.com/95657458/148627410-99bb5809-5e20-4048-b671-692645ea7a43.png">
 
 
 ## Election-Audit Summary ##
