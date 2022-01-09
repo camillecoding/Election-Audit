@@ -12,8 +12,9 @@ This project uses voting data from three distinct counties in Colorado to calcul
 
 Election audits help to support public faith in the integrity of a country's electoral process and in democracy more widely. While projections for election results provide some short-term relief, the information uncovered in audits like these are an essential part of verifying the results.
 
-<img width="404" alt="Screen Shot 2022-01-09 at 1 25 25 PM" src="https://user-images.githubusercontent.com/95657458/148695435-b8a081a5-c1d3-4026-9936-4c46ad376860.png">
-<img width="421" alt="Screen Shot 2022-01-09 at 1 25 40 PM" src="https://user-images.githubusercontent.com/95657458/148695439-94006e07-8a41-4f7b-9f81-57e86fdea265.png">
+<img width="345" alt="Screen Shot 2022-01-09 at 1 38 45 PM" src="https://user-images.githubusercontent.com/95657458/148695926-3db05249-55db-436b-9661-6993aef1746e.png">
+<img width="397" alt="Screen Shot 2022-01-09 at 1 38 55 PM" src="https://user-images.githubusercontent.com/95657458/148695927-23fd5e40-b22d-469a-bd9a-a9be40ca189e.png">
+
 
 
   ### Election Details and Outcomes ###
